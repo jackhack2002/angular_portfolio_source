@@ -1,0 +1,39 @@
+
+
+.slide-in-left{animation:slide-in-left .5s cubic-bezier(.25,.46,.45,.94) both}
+
+@keyframes slide-in-left{0%{transform:translateX(-1000px);opacity:0}100%{transform:translateX(0);opacity:1}}
+
+#a1{animation:slide-in-bottom .2s cubic-bezier(.25,.46,.45,.94) both}
+
+
+@keyframes slide-in-bottom{0%{transform:translateY(150px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+
+#a2{animation:slide-in-bottom .4s cubic-bezier(.25,.46,.45,.94) both}
+
+
+@keyframes slide-in-bottom{0%{transform:translateY(250px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+#a3{animation:slide-in-bottom .6s cubic-bezier(.25,.46,.45,.94) both}
+
+
+@keyframes slide-in-bottom{0%{transform:translateY(350px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+#a4{animation:slide-in-bottom .7s cubic-bezier(.25,.46,.45,.94) both}
+
+
+@keyframes slide-in-bottom{0%{transform:translateY(450px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+#a5{animation:slide-in-bottom .8s cubic-bezier(.25,.46,.45,.94) both}
+
+
+@keyframes slide-in-bottom{0%{transform:translateY(550px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+
+#a6{animation:slide-in-bottom .9s cubic-bezier(.25,.46,.45,.94) both}
+
+
+@keyframes slide-in-bottom{0%{transform:translateY(650px);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+
